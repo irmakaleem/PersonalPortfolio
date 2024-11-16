@@ -23,27 +23,27 @@ const Skills = () => {
               <div className="skill-item wow fadeInUp" data-wow-delay=".3s">
                 <div className="skill-inner">
                   <div className="icon-box">
-                    <img src="/img/icons/figma.svg" alt />
+                    <img src="/img/icons/shopify.png" alt />
                   </div>
                   <div className="number">92%</div>
                 </div>
-                <p>Figma</p>
+                <p>Shopify</p>
               </div>
               <div className="skill-item wow fadeInUp" data-wow-delay=".4s">
                 <div className="skill-inner">
                   <div className="icon-box">
-                    <img src="/img/icons/sketch.svg" alt />
+                    <img src="/img/icons/html-5.png" alt />
                   </div>
-                  <div className="number">80%</div>
+                  <div className="number">100%</div>
                 </div>
-                <p>Sketch</p>
+                <p>HTML5</p>
               </div>
               <div className="skill-item wow fadeInUp" data-wow-delay=".5s">
                 <div className="skill-inner">
                   <div className="icon-box">
-                    <img src="/img/icons/xd.svg" alt />
+                    <img src="/img/icons/css.png" alt />
                   </div>
-                  <div className="number">85%</div>
+                  <div className="number">99%</div>
                 </div>
                 <p>XD</p>
               </div>

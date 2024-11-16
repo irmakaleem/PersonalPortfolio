@@ -27,9 +27,9 @@ const Portfolio = () => {
                 <button data-filter="*" className="active">
                   All
                 </button>
-                <button data-filter=".uxui">UX/UI</button>
-                <button data-filter=".branding">Branding</button>
-                <button data-filter=".mobile-app">Apps</button>
+                <button data-filter=".uxui">E-Commerce </button>
+                <button data-filter=".branding">Frontend Development</button>
+                <button data-filter=".mobile-app">Backend Development</button>
                 <div className="active-bg" />
               </div>
             </div>
