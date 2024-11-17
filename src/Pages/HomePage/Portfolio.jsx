@@ -41,8 +41,12 @@ const Portfolio = () => {
                   <img src="/img/portfolio/2.jpg" alt />
                 </div>
                 <div className="content-box">
-                  <h3 className="portfolio-title">Deloitte</h3>
-                  <p>Project was about precision and information.</p>
+                  <h3 className="portfolio-title">Hut Construction</h3>
+                  <p>
+                    Built a responsive, custom HTML, CSS, and JavaScript website
+                    for Hut Construction Inc., showcasing their services and
+                    projects in a clean, professional layout.
+                  </p>
                   <i className="flaticon-up-right-arrow" />
                   <button
                     data-mfp-src="#portfolio-wrapper"
@@ -55,8 +59,12 @@ const Portfolio = () => {
                   <img src="/img/portfolio/1.jpg" alt />
                 </div>
                 <div className="content-box">
-                  <h3 className="portfolio-title">New Age</h3>
-                  <p>Project was about precision and information.</p>
+                  <h3 className="portfolio-title">Hira Tours</h3>
+                  <p>
+                    Developed a user-friendly WordPress site for Hira Tours,
+                    offering customized Hajj and Umrah packages with visa,
+                    accommodation, and spiritual guidance.
+                  </p>
                   <i className="flaticon-up-right-arrow" />
                   <button
                     data-mfp-src="#portfolio-wrapper"
@@ -69,8 +77,12 @@ const Portfolio = () => {
                   <img src="/img/portfolio/3.jpg" alt />
                 </div>
                 <div className="content-box">
-                  <h3 className="portfolio-title">Sebastian</h3>
-                  <p>Project was about precision and information.</p>
+                  <h3 className="portfolio-title">IALUS</h3>
+                  <p>
+                    Designed and developed a modern, user-friendly website for
+                    IALUS, focusing on presenting their research and educational
+                    services with a clean, professional layout.
+                  </p>
                   <i className="flaticon-up-right-arrow" />
                   <button
                     data-mfp-src="#portfolio-wrapper"
