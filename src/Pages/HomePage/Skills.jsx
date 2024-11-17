@@ -45,7 +45,7 @@ const Skills = () => {
                   </div>
                   <div className="number">99%</div>
                 </div>
-                <p>XD</p>
+                <p>CSS</p>
               </div>
               <div className="skill-item wow fadeInUp" data-wow-delay=".6s">
                 <div className="skill-inner">
