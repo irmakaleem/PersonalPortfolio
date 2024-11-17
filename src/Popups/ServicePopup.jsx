@@ -68,20 +68,19 @@ const ServicePopup = () => {
                   <ul>
                     <li className="active">
                       <button>
-                        <i className="flaticon-design" />
-                        Branding Design
+                        <i className="flaticon-design" />E Commerce websites
                       </button>
                     </li>
                     <li>
                       <button>
                         <i className="flaticon-3d-movie" />
-                        3D Animation
+                        Frontend Development
                       </button>
                     </li>
                     <li>
                       <button>
                         <i className="flaticon-ux-design" />
-                        UI/UX Design
+                        Backend Development
                       </button>
                     </li>
                     <li>
